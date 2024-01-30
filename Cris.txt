@@ -2,4 +2,4 @@ Hello there!
 
 This is another message!
 
-Kafka is mommy~
+This was another message before
